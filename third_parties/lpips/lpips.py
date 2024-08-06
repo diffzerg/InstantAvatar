@@ -9,8 +9,7 @@ import numpy as np
 from . import pretrained_networks as pn
 import torch.nn
 
-from . import *
-
+from .utils import *
 
 def spatial_average(in_tens, keepdim=True):
     return in_tens.mean([2,3],keepdim=keepdim)

@@ -5,7 +5,7 @@ import glob
 import os
 
 
-CHECKPOINT = os.path.expanduser("~/third_party/segment-anything/ckpts/sam_vit_h_4b8939.pth")
+CHECKPOINT = os.path.expanduser("~/sam_vit_h_4b8939.pth")
 MODEL = "vit_h"
 
 

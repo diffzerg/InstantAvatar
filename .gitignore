@@ -1,3 +1,16 @@
 outputs/
 __pycache__/
 *.swp
+*.png
+*.json
+*.jpg
+/data/PeopleSnapshot
+/openpose
+*.pkl
+*.npy
+/tiny-cuda-nn
+*.npz
+/kaolin
+/nvdiffrast
+*.gif
+/segment-anything
